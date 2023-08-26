@@ -1,0 +1,18 @@
+main: land.esta.macrocheck.MacroCheck
+name: MacroCheck
+version: 1.0-SNAPSHOT
+authors:
+  - tdvne
+description: A Hypixel inspired simple bukkit/spigot plugin that macro checks players
+website: https://edater.dev
+
+commands:
+  macrocheck:
+    description: Start a macro check on a player
+    usage: /<command> <username>
+    permission: macrocheck.use
+
+permissions:
+  macrocheck.use:
+    description: Allows user to start a macro check
+    default: op
