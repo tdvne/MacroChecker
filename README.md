@@ -13,3 +13,5 @@ Project is EOL (End of Life).
 > I might buy a $1,800 during this summer if I have time to play Hypixel Skyblock, let me know if you're interested in selling me coins, I buy @ 0.025/per million. DM me on Discord | tdvne
 
 > For people who know me from "esta.land" which is my server, if you were wondering why there were 0 significant updates, now you know why!
+
+> P.S Shoutout to "llttle" original CO-OP member that got wiped and now was wiped along with me, CO-OP accumulated networth was about ~40 billion. The other billions of coins were on different accounts that were either wiped, banned, or transferred. Pray for him not to get banned!
