@@ -15,3 +15,17 @@ Project is EOL (End of Life).
 > For people who know me from "esta.land" which is my server, if you were wondering why there were 0 significant updates, now you know why!
 
 > P.S Shoutout to "llttle" original CO-OP member that got wiped and now was wiped along with me, CO-OP accumulated networth was about ~40 billion. The other billions of coins were on different accounts that were either wiped, banned, or transferred. Pray for him not to get banned!
+
+##
+
+QOL Mods Used
+
+> Oringo Client Supporter (Paid)
+> Taunahi+ (v2 & v3) (Paid)
+> Cheeto Sigma (Paid)
+> Aurora (Paid)
+> SkySkipped Beta (Paid)
+> Skyblock Extras (Paid)
+> and more... (just to lazy to put them)
+
+> I would just like to say that all of the QOL Skyblock Developers that I worked with are awesome, and I'm thankful that I was able to work with them since I was mainly in the "server-development" space rather than mod developing, I learned a lot and will take that knowledge onto improve experience for esta.land players!
