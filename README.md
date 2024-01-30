@@ -20,12 +20,12 @@ Project is EOL (End of Life).
 
 QOL Mods Used
 
-> Oringo Client Supporter (Paid)
-> Taunahi+ (v2 & v3) (Paid)
-> Cheeto Sigma (Paid)
-> Aurora (Paid)
-> SkySkipped Beta (Paid)
-> Skyblock Extras (Paid)
-> and more... (just to lazy to put them)
+- Oringo Client Supporter (Paid)
+- Taunahi+ (v2 & v3) (Paid)
+- Cheeto Sigma (Paid)
+- Aurora (Paid)
+- SkySkipped Beta (Paid)
+- Skyblock Extras (Paid)
+- and more... (just to lazy to put them)
 
 > I would just like to say that all of the QOL Skyblock Developers that I worked with are awesome, and I'm thankful that I was able to work with them since I was mainly in the "server-development" space rather than mod developing, I learned a lot and will take that knowledge onto improve experience for esta.land players!
